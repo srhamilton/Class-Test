@@ -50,4 +50,4 @@ mean.t
 sum(fly.aov.t$residuals)
 sum(fly.lm.t$residuals)
 
-
+#How does this save
